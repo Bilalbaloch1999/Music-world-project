@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "clasic"
+		},
+		{
+			"path": "jazz"
+		},
+		{
+			"path": "pop"
+		},
+		{
+			"path": "rap song"
+		},
+		{
+			"path": "rock"
+		}
+	],
+	"settings": {}
+}
